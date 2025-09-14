@@ -48,10 +48,12 @@ python check.py
 
 Se tudo estiver configurado corretamente, você verá algo como:
 
+```
 [INFO] Autenticação realizada com sucesso.
+
 [INFO] Arquivos encontrados:
  - exemplo1.txt (ID: abc123)
  - exemplo2.pdf (ID: xyz789)
-
+```
 
 
