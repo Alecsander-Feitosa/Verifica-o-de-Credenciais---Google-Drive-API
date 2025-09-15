@@ -34,7 +34,7 @@ Antes de usar, você precisa de:
    git clone https://github.com/Alecsander-Feitosa/Verifica-o-de-Credenciais---Google-Drive-API
 
    
-2. nstale as dependências:
+2. Instale as dependências:
  ```
 pip install -r requirements.txt
 ```
